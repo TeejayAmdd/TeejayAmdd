@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azez-adam-b756432aa/">
+  <a href="www.linkedin.com/in/azeez-adam-b756432aa">
     LinkedIn
   </a>
   •
